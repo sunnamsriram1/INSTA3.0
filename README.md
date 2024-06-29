@@ -14,7 +14,9 @@ This project uses Instaloader to download Instagram data. It includes functional
 
     ```sh
     git clone https://github.com/sunnamsriram1/INSTA3.0.git
-    cd your-repository-name
+    cd INSTA3.0
+    python3 insta3.0_enc.py
+    
     ```
 
 2. **Create and activate a virtual environment (optional but recommended):**
