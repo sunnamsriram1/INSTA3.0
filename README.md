@@ -30,11 +30,23 @@ This project uses Instaloader to download Instagram data. It includes functional
 
     ```sh
     pip install -r requirements.txt
+  
     ```
 
 ## Usage
 
 Run the main script to execute the project. 
+import instaloader
+import csv
+import sys
+from tqdm import tqdm
+import colorama
+from colorama import Fore, Style
+import pytz
+import datetime
+import os
+
+# Your script logic here
 
 ```sh
 python3 insta3.0_enc.py
